@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu perfil / Welcome to my profile 🤙
+## Seja bem vindo ao meu perfil 🤙 / Welcome to my profile
 
 <div align="center">
   <a href="https://github.com/Cavalheiro-S">
