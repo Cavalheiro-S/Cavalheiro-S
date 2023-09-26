@@ -136,8 +136,3 @@
   </tr>
 </table>
  <br/>
-  
-  
-  ![Snake animation](https://github.com/Cavalheiro-S/Cavalheiro-S/blob/output/github-contribution-grid-snake.svg)
-  
-  
