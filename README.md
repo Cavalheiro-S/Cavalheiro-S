@@ -3,8 +3,7 @@
 <div>
   <ul align="left">
       <li>🤩️ Amo tecnologia, música, cozinhar, jogar fifa e lol e assistir séries.</li>
-      <li>🖥️ Atualmente trabalho com C# desenvolvendo um projeto mobile em xamarin e seu backend em ASP Net.</li>
-      <li>💼 Apesar da minha experiência profissional, em paralelo eu estudo e faço projetos nas tecnologias frontend.</li>
+      <li>🖥️ Atualmente trabalho com Typescript desenvolvendo frontend e backend das aplicações.</li>
       <li>🚀 Tenho foco em evoluir meus conhecimentos em <strong>ReactJS</strong> e em seu ecossistema.</li>
   </ul>
   
